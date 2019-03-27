@@ -47,8 +47,6 @@ modified in the file [/etc/dnsmasq.conf](/etc/dnsmasq.conf)
 
 ## CloudShark API Token
 
-To upload captures into CloudShark using the [upload api method](
-
 An API token is required to upload captures and keylog files to CloudShark
 using the [upload api method](https://support.cloudshark.io/api/upload.html).
 
