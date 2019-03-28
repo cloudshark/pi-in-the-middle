@@ -4,7 +4,7 @@
 set -e
 
 # Install packages
-
+apt update
 apt-get -y install dnsmasq hostapd tcpdump
 
 # Configure

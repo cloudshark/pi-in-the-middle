@@ -7,6 +7,7 @@ PYTHON_VERSION="3.7.2"
 PYTHON_URL="https://www.python.org/ftp/python/${PYTHON_VERSION}/Python-${PYTHON_VERSION}.tgz"
 
 # Install requirements
+sudo apt update
 sudo apt-get -y install \
   libffi-dev \
   libbz2-dev \
